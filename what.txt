@@ -1,0 +1,5 @@
+Inspiration and duplication - https://www.youtube.com/@MoneyGroott
+OK so Above video channel is our inspiration of how our editors should work We would be using like simple plane edits but with kind of motion graphics we will be using Python to develop this 
+and for the front in and the looks we are thinking of going with streamlit if it is possible or no otherwise we will be using normal thinkter GUI
+
+Step 1 - Create Flowchart which would help us to make it succesful
